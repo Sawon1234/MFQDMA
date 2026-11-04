@@ -6,7 +6,7 @@ Code and data accompanying
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR-GITHUB-USERNAME>/MFQDMA-PaperI/blob/main/MFQDMA_PaperI.ipynb)
 
-**One notebook reproduces the whole paper.** Open `MFQDMA_PaperI.ipynb` in Google Colab with the badge above and choose *Runtime → Run all*. The notebook clones this repository, installs the requirements, and regenerates all **17 figures** and all **11 data tables** (Tables II–XII). It then checks the figures against the manuscript versions and offers the outputs as a zip file. This takes about ten minutes.
+**One notebook reproduces the whole paper.** Open `MFQDMA_main.ipynb` in Google Colab with the badge above and choose *Runtime → Run all*. The notebook clones this repository, installs the requirements, and regenerates all **17 figures** and all **11 data tables** (Tables II–XII). It then checks the figures against the manuscript versions and offers the outputs as a zip file. This takes about ten minutes.
 
 By default the figures and tables are built from the stored numerical results in `results/`. Switch on the `RECOMPUTE` flags in Part 1 of the notebook to regenerate those results from scratch. All seeds are fixed, and recomputing reproduces the stored results exactly. Rough run times on a free Colab runtime (about 2 h in total):
 
@@ -79,7 +79,7 @@ r['hq'], r['tau_q'], r['alpha'], r['f_alpha']
 
 ## Companion paper
 
-The cross-correlation extension (MF-X-QDMA) is in the repository `MFQDMA-PaperII`.
+The cross-correlation extension (MF-X-QDMA) is in the repository `MF-X-QDMA`.
 
 ## Licence
 
