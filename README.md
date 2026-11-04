@@ -4,7 +4,7 @@ Code and data accompanying
 
 > S. Pratiher, *Quantile detrending moving average algorithm for multifractal time series and surfaces*, submitted to Physical Review E (2026).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR-GITHUB-USERNAME>/MFQDMA-PaperI/blob/main/MFQDMA_PaperI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR-GITHUB-USERNAME>/MFQDMA-PaperI/blob/main/MFQDMA_main.ipynb)
 
 **One notebook reproduces the whole paper.** Open `MFQDMA_main.ipynb` in Google Colab with the badge above and choose *Runtime → Run all*. The notebook clones this repository, installs the requirements, and regenerates all **17 figures** and all **11 data tables** (Tables II–XII). It then checks the figures against the manuscript versions and offers the outputs as a zip file. This takes about ten minutes.
 
@@ -28,8 +28,8 @@ Run once:
 
 ```bash
 python set_github_user.py <your-github-user>
-# if this folder is a sub-folder of a larger repository, e.g. github.com/alice/MFQDMA/MFQDMA-PaperI:
-python set_github_user.py alice --repo MFQDMA --subdir MFQDMA-PaperI
+# if this folder is a sub-folder of a larger repository, e.g. github.com/alice/MFQDMA/MFQDMA_main:
+python set_github_user.py alice --repo MFQDMA --subdir MFQDMA_main
 ```
 
 This fills in the Colab badge and the clone URL in the first code cell of the notebook. You can also edit `GITHUB_REPO` and `SUBDIR` in that cell by hand.
@@ -37,7 +37,7 @@ This fills in the Colab badge and the clone URL in the first code cell of the no
 ## Contents
 
 ```
-MFQDMA_PaperI.ipynb   the notebook: setup, recompute (optional), Figs. 1-17, Tables II-XII, check, download
+MFQDMA_main.ipynb   the notebook: setup, recompute (optional), Figs. 1-17, Tables II-XII, check, download
 mfqdma/               Python package
   methods.py            MFDFA, MFDMA, MFQDMA (1D) and 2D-MF(Q)DMA estimators
   generators.py         binomial / log-normal / 2D cascades, fGn, fBm surfaces, alpha-stable noise, contamination
@@ -66,7 +66,7 @@ Created when the notebook runs: `figures_out/` (PDF + PNG of every figure), `tab
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook MFQDMA_PaperI.ipynb
+jupyter notebook MFQDMA_main.ipynb
 ```
 
 The functions can also be used directly, e.g.
