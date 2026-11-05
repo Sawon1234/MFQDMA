@@ -2,7 +2,7 @@
 
 Code and data accompanying
 
-> S. Pratiher, *Quantile detrending moving average algorithm for multifractal time series and surfaces*, submitted to Physical Review E (2026).
+> S. Pratiher, *Quantile detrending moving average algorithm for multifractal time series and surfaces*, submitted to a journal (2026).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR-GITHUB-USERNAME>/MFQDMA-PaperI/blob/main/MFQDMA_main.ipynb)
 
