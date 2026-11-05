@@ -1,4 +1,4 @@
-# MFQDMA — quantile detrending moving average for multifractal time series and surfaces
+# MFQDMA: Quantile Detrending Moving Average for Multifractal Time Series and Surfaces
 
 Code and data accompanying
 
