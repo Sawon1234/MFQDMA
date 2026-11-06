@@ -6,7 +6,7 @@ Code and data accompanying
 
 > Preprint: https://doi.org/10.21203/rs.3.rs-11631864/v1
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR-GITHUB-USERNAME>/MFQDMA-PaperI/blob/main/MFQDMA_main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sawon1234/MFQDMA/blob/main/MFQDMA_main.ipynb)
 
 **One notebook reproduces the whole paper.** Open `MFQDMA_main.ipynb` in Google Colab with the badge above and choose *Runtime → Run all*. The notebook clones this repository, installs the requirements, and regenerates all **17 figures** and all **11 data tables** (Tables II–XII). It then checks the figures against the manuscript versions and offers the outputs as a zip file. This takes about ten minutes.
 
