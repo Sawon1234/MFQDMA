@@ -80,10 +80,10 @@ r['hq'], r['tau_q'], r['alpha'], r['f_alpha']
 
 ## Companion paper
 
-The cross-correlation extension (MF-X-QDMA) is in the repository `MF-X-QDMA`.
+The cross-correlation extension (MF-X-QDMA) is in the repository `https://github.com/Sawon1234/MF-X-QDMA`.
 
 ## Licence
 
 MIT (see `LICENSE`). Please cite the paper if you use the code. 
 
-Sawon Pratiher. Quantile Detrending Moving Average Algorithm for Multifractal Time Series and Surfaces, 06 November 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-11631864/v1]
+Sawon Pratiher. Quantile Detrending Moving Average Algorithm for Multifractal Time Series and Surfaces, 06 November 2026, (PREPRINT) available at Research Square [https://doi.org/10.21203/rs.3.rs-11631864/v1]
