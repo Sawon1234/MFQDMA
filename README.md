@@ -3,6 +3,7 @@
 Code and data accompanying
 
 > Reference: **S. Pratiher**, *Quantile Detrending Moving Average Algorithm for Multifractal Time Series and Surfaces*, submitted to a journal (2026).
+
 > Preprint: https://doi.org/10.21203/rs.3.rs-11631864/v1
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR-GITHUB-USERNAME>/MFQDMA-PaperI/blob/main/MFQDMA_main.ipynb)
@@ -80,7 +81,7 @@ r['hq'], r['tau_q'], r['alpha'], r['f_alpha']
 
 ## Companion paper
 
-The cross-correlation extension (MF-X-QDMA) is in the repository `https://github.com/Sawon1234/MF-X-QDMA`.
+The cross-correlation extension (MF-X-QDMA) is in the repository `MF-X-QDMA`.
 
 ## Licence
 
