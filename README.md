@@ -2,7 +2,7 @@
 
 Code and data accompanying
 
-> Reference: **S. Pratiher**, *Quantile Detrending Moving Average Algorithm for Multifractal Time Series and Surfaces*, submitted to a journal (2026).
+> Reference: **S. Pratiher**, *'Quantile Detrending Moving Average Algorithm for Multifractal Time Series and Surfaces'*, submitted to a journal (2026).
 
 > Preprint: https://doi.org/10.21203/rs.3.rs-11631864/v1
 
